@@ -1,3 +1,3 @@
-fastapi==0.99.1
+fastapi==0.100.0  # Use FastAPI 0.100.x or later
 uvicorn==0.18.3
-pydantic==1.10.13
+pydantic==2.0.0  # Use Pydantic 2.x
